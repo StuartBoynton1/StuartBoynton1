@@ -6,5 +6,3 @@
 - ⚡ Quick facts: I was born and raised in Cape Town, South Africa. I am an Academic Captain on the UCSD Division one Men's Rowing program. 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=StuartBoynton1)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=StuartBoynton1&repo=cse110-fa21-group32/cse110-fa21-group32)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=StuartBoynton1&repo=soc-ucsd/mixed-traffic)
